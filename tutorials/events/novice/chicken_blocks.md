@@ -41,7 +41,7 @@ player.onChat("chicken", function () {
 }) 
 ```
 
-### Full Code: 
+### Full Code:
 
 ```blocks
 player.onChat("chicken", function () { 
@@ -50,4 +50,3 @@ player.onChat("chicken", function () {
     } 
 }) 
 ```
-
